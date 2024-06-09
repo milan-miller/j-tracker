@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="125.84972mm"
+   height="28.741936mm"
+   viewBox="0 0 125.84972 28.741936"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="355.39752"
+       y="109.97206"
+       width="209.21513"
+       height="205.19177"
+       id="rect394" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-45.064519,-86.935491)">
+    <g
+       id="g615">
+      <rect
+         style="fill:#800080;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect234"
+         width="30.161291"
+         height="28.741932"
+         x="45.064518"
+         y="86.935486"
+         ry="1.5795249" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-41.021913,55.452226)"
+         id="text392"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;font-family:'Goudy Stout';-inkscape-font-specification:'Goudy Stout';white-space:pre;shape-inside:url(#rect394);fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;paint-order:markers fill stroke"><tspan
+           x="355.39844"
+           y="203.8993"
+           id="tspan664"><tspan
+             style="font-family:Elephant;-inkscape-font-specification:Elephant"
+             id="tspan662">J</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Elephant;-inkscape-font-specification:Elephant;fill:#800080;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;paint-order:markers fill stroke"
+       x="78.774185"
+       y="109.42317"
+       id="text564"><tspan
+         id="tspan562"
+         style="stroke-width:0"
+         x="78.774185"
+         y="109.42317">Tracker</tspan></text>
+  </g>
+</svg>

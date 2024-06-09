@@ -1,4 +1,35 @@
+import Wrapper from '../assets/wrappers/LandingPage';
+import main from '../assets/images/main.svg';
+import { Link } from 'react-router-dom';
+import { Logo } from '../components';
+
 const Landing = () => {
-	return <div>Landing</div>;
+	return (
+		<Wrapper>
+			<nav>
+				<Logo />
+			</nav>
+			<div className='container'>
+				<div className='info'>
+					<h1>
+						job <span>tracking</span> app
+					</h1>
+					<p>
+						Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde autem
+						odit magni sapiente aliquam a porro ullam ipsa reiciendis
+						recusandae.
+					</p>
+					<Link to='/register' className='btn'>
+						Register
+					</Link>
+					<Link to='/login' className='btn'>
+						Login / Demo User
+					</Link>
+				</div>
+				<img src={main} alt='landing-page' className='img' />
+			</div>
+		</Wrapper>
+	);
 };
+
 export default Landing;

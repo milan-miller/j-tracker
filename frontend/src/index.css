@@ -1,5 +1,18 @@
+:root {
+	--fluid-width: 90vw;
+	--max-width: 1120px;
+	--fixed-width: 600px;
+	--nav-height: 6rem;
+}
+
 * {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+}
+
+.container {
+	width: var(--fluid-width);
+	max-width: var(--max-width);
+	margin: 0 auto;
 }
