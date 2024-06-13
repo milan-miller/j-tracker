@@ -3,6 +3,8 @@
 	--max-width: 1120px;
 	--fixed-width: 600px;
 	--nav-height: 6rem;
+	--primary-500: #2cb1bc;
+	--grey-500: #627d98;
 }
 
 * {
